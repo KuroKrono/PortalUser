@@ -1,0 +1,14 @@
+<div class="container">
+  <form class="form" (ngSubmit)="submit" [formGroup]="departmentForm">
+    <div class="form_header">
+      <h2>Create Department</h2>
+    </div>
+    <div>
+      <mat-form-field class="full-width">
+        <input class="user_input" matInput placeholder="Title" name="Title" formControlName="Title">
+      </mat-form-field>
+    </div>
+    <button mat-raised-button (click)="cancel()">Cancel</button>
+    <button mat-raised-button [type]="submit" (click)="addDepartment()">Create</button>
+  </form>
+  </div>

@@ -1,0 +1,12 @@
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Models\bin\Debug\netstandard2.0\PortalUser.Models.deps.json
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Models\bin\Debug\netstandard2.0\PortalUser.Models.dll
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Models\bin\Debug\netstandard2.0\PortalUser.Models.pdb
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Models\obj\Debug\netstandard2.0\PortalUser.Models.csprojAssemblyReference.cache
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Models\obj\Debug\netstandard2.0\PortalUser.Models.csproj.CoreCompileInputs.cache
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Models\obj\Debug\netstandard2.0\PortalUser.Models.AssemblyInfoInputs.cache
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Models\obj\Debug\netstandard2.0\PortalUser.Models.AssemblyInfo.cs
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Models\obj\Debug\netstandard2.0\PortalUser.Models.dll
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Models\obj\Debug\netstandard2.0\PortalUser.Models.pdb
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Models\bin\Debug\netstandard2.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Models\bin\Debug\netstandard2.0\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Models\obj\Debug\netstandard2.0\PortalUser.Models.csproj.CopyComplete

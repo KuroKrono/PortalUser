@@ -1,0 +1,16 @@
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Automapper\bin\Debug\netstandard2.0\PortalUser.Automapper.deps.json
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Automapper\bin\Debug\netstandard2.0\PortalUser.Automapper.dll
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Automapper\obj\Debug\netstandard2.0\PortalUser.Automapper.csprojAssemblyReference.cache
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Automapper\obj\Debug\netstandard2.0\PortalUser.Automapper.csproj.CoreCompileInputs.cache
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Automapper\obj\Debug\netstandard2.0\PortalUser.Automapper.AssemblyInfoInputs.cache
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Automapper\obj\Debug\netstandard2.0\PortalUser.Automapper.AssemblyInfo.cs
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Automapper\bin\Debug\netstandard2.0\PortalUser.Automapper.pdb
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Automapper\bin\Debug\netstandard2.0\PortalUser.Domain.dll
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Automapper\bin\Debug\netstandard2.0\PortalUser.Models.dll
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Automapper\bin\Debug\netstandard2.0\PortalUser.Domain.pdb
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Automapper\bin\Debug\netstandard2.0\PortalUser.Models.pdb
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Automapper\obj\Debug\netstandard2.0\PortalUser.Automapper.csproj.CopyComplete
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Automapper\obj\Debug\netstandard2.0\PortalUser.Automapper.dll
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Automapper\obj\Debug\netstandard2.0\PortalUser.Automapper.pdb
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Automapper\bin\Debug\netstandard2.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Pmatrosov\Desktop\ProjGit\new\PortalUser\PortalUser.Automapper\bin\Debug\netstandard2.0\Microsoft.Extensions.Identity.Stores.xml

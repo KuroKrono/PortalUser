@@ -1,0 +1,28 @@
+body {
+}
+
+
+.user-container{
+  margin: 100px auto;
+ 
+}
+
+.user-container-create {
+  margin: 100px auto;
+  max-width: 600px;
+  text-align: center;
+}
+.user-container-create h2 {
+  
+}
+.form_header{
+  padding: 20px;
+}
+.mat-form-field-infix {
+  margin: 20px auto;
+  width: 300px;
+}
+  .user-container-create button {
+    margin: 20px auto;
+    width: 250px;
+  }

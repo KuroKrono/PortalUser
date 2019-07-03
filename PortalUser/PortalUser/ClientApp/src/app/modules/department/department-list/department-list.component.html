@@ -1,0 +1,46 @@
+<div class="department-container mat-elevation-z8">
+  <div *ngIf="(departments$ | async) as departments">
+    <mat-table #table [dataSource]="departments">
+
+      <!--- Note that these columns can be defined in any order.
+  The actual rendered columns are set as a property on the row definition" -->
+      <!-- Position Column -->
+      <ng-container matColumnDef="#">
+        <mat-header-cell *matHeaderCellDef> #. </mat-header-cell>
+        <mat-cell *matCellDef="let element"> {{element.id}} </mat-cell>
+      </ng-container>
+
+      <!-- Name Column -->
+      <ng-container matColumnDef="Title">
+        <mat-header-cell *matHeaderCellDef> Department Name </mat-header-cell>
+        <mat-cell *matCellDef="let element"> {{element.title}} </mat-cell>
+      </ng-container>
+
+      <!-- Symbol Column -->
+    <ng-container matColumnDef="actions">
+      <mat-header-cell *matHeaderCellDef>
+        Actions
+        <button mat-icon-button color="primary" (click)="addDepartment()">
+          <mat-icon aria-label="Example icon-button with a heart icon">add</mat-icon>
+        </button>
+      </mat-header-cell>
+
+      <mat-cell *matCellDef="let row; let i=index;">
+
+        <button mat-icon-button color="black" (click)="editDepartment(row)">
+          <mat-icon aria-label="Edit">edit</mat-icon>
+        </button>
+       
+        <button mat-icon-button color="black" (click)="deleteDepartment(row)">
+          <mat-icon aria-label="Delete">delete</mat-icon>
+        </button>
+      </mat-cell>
+    </ng-container>
+
+
+      <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+      <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+    </mat-table>
+
+  </div>
+</div>
